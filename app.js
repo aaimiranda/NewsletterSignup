@@ -32,11 +32,11 @@ const data = {
 
 const jsonData = JSON.stringify(data);
 
-const url = "https://server.api.mailchimp.com/3.0/lists/xxxxxxxx"
+const url = "url server"
 
 const options = {
     method: "POST",
-    auth: "newsletter: xxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    auth: "newsletter: API Key"
 }
 
 const request = https.request(url, options, function(response) {
