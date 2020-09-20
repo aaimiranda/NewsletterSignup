@@ -26,9 +26,6 @@ To run this project, install node.js and after install dependencies locally usin
 
 ```
 $ cd ~
-$ mkdir newsLetterProject
 $ cd newsLetterProject
-~/newsLetterProject $
-~/newsLetterProject $ npm install express body-parser
 ~/newsLetterProject $ node "file name.js"
 ```
