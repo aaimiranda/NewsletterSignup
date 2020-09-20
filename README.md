@@ -22,7 +22,7 @@ Project is created with:
 * Complete
 	
 ## Setup
-To run this project, install node.js and after install dependencies locally using npm:
+To run this project, install locally using npm:
 
 ```
 $ cd ~
