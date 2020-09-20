@@ -30,4 +30,4 @@ $ cd newsLetterProject
 ~/newsLetterProject $ node "file name.js"
 ```
 ## Screenshot
-![Alt text](/newsLetterSignUp.png?raw=true "NewsletterSignup")
+![Alt text](/newsLetterSignUp.png?raw=true "NewsletterSignup Project")
