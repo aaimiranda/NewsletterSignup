@@ -32,11 +32,11 @@ const data = {
 
 const jsonData = JSON.stringify(data);
 
-const url = "https://server.api.mailchimp.com/3.0/lists/640820d135"
+const url = "https://server.api.mailchimp.com/3.0/lists/xxxxxxxx"
 
 const options = {
     method: "POST",
-    auth: "newsletter:5f0edb1a0949bf48e6cac22e043e740f-us2"
+    auth: "newsletter: xxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
 const request = https.request(url, options, function(response) {
@@ -62,7 +62,3 @@ request.end();
 app.listen(port, function() {
     console.log("Server is running at http://localhost:"+ port, );
 })
-
-
-// API key: 5f0edb1a0949bf48e6cac22e043e740f-us2
-// Audience or List ID: 640820d135
