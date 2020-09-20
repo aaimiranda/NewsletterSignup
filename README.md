@@ -6,6 +6,7 @@ Part of Projects on the Web Development Bootcamp.
 * [Technologies](#technologies)
 * [Project Status](#project-status)
 * [Setup](#setup)
+* [Screenshot](#screenshot)
 
 ## General info
 This project is basically a simple webpage to sign up for a newsletter.
