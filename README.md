@@ -23,12 +23,15 @@ Project is created with:
 * Complete
 	
 ## Setup
-To run this project, install locally using npm:
+To run this project, install node.js and all dependencies locally using npm:
 
 ```
 $ cd ~
+$ mkdir newsLetterProject
 $ cd newsLetterProject
-~/newsLetterProject $ node "file name.js"
+~/newsLetterProject $
+~/newsLetterProject $ npm install request express body-parser
+~/newsLetterProject $ node app.js
 ```
 ## Screenshot
 ![Alt text](/newsLetterSignUp-screenShot.png?raw=true "NewsletterSignup")
